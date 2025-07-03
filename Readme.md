@@ -111,7 +111,7 @@ git clone https://github.com/YourGitHubUsername/Titanic-EDA-Jupyter.git
 cd Titanic-EDA-Jupyter
 ```
 
-#### (Remember to replace YourGitHubUsername with your actual GitHub username)
+#### (Remember to replace YourGitHubUsername with your actual GitHub username.)
 
 ### 2. Download the Dataset
 #### Go to the Kaggle Titanic Dataset page.
