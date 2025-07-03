@@ -1,9 +1,9 @@
-Titanic-EDA-Jupyter
+# Titanic-EDA-Jupyter
 
-📄 Overview
+# 📄 Overview
 This repository contains an Exploratory Data Analysis (EDA) of the famous Titanic disaster dataset. The project aims to uncover patterns and relationships within the data to understand the factors that influenced survival rates. Conducted entirely within a Jupyter Notebook, this analysis showcases data cleaning, preprocessing, univariate and bivariate analysis, advanced visualizations, and basic interactive elements using ipywidgets.
 
-🎯 Project Goals
+# 🎯 Project Goals
 The main objectives of this EDA project are:
 
 Data Understanding: Load and inspect the dataset to understand its structure, data types, and identify missing values.
@@ -20,7 +20,7 @@ Interactive Exploration: Implement basic ipywidgets to allow dynamic filtering a
 
 Storytelling: Summarize key insights and present a clear narrative of the findings.
 
-📊 Dataset
+# 📊 Dataset
 The dataset used in this project is the train.csv file from the Kaggle "Titanic - Machine Learning from Disaster" competition. It contains various details about the passengers on the Titanic, including:
 
 PassengerId: A unique identifier for each passenger.
@@ -49,7 +49,7 @@ Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
 
 Source: Kaggle Titanic Dataset
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 This project is developed using:
 
 Jupyter Notebook / JupyterLab: The interactive environment for writing and executing code.
@@ -66,7 +66,7 @@ Seaborn: For creating high-level statistical visualizations.
 
 ipywidgets: For adding interactive controls to the notebook.
 
-📈 Analysis Performed
+# 📈 Analysis Performed
 The Titanic_EDA_Jupyter.ipynb notebook covers the following analytical steps:
 
 Initial Data Loading and Inspection: Using df.head(), df.info(), and df.describe() to get a first look at the data.
@@ -89,7 +89,7 @@ Advanced Visualizations: Utilizing seaborn.pairplot for a comprehensive look at 
 
 Interactive Filters: Implementing ipywidgets to create interactive sliders for filtering age and fare ranges, allowing dynamic updates to distribution plots.
 
-🔑 Key Insights
+# 🔑 Key Insights
 The exploratory data analysis revealed several significant factors influencing survival on the Titanic:
 
 Gender was the most dominant factor: Females had a substantially higher survival rate than males, consistent with the "women and children first" protocol.
@@ -102,7 +102,7 @@ Family dynamics mattered: Passengers traveling alone or in very large groups had
 
 Social titles reflected survival chances: Titles indicating higher social standing or marital status (e.g., 'Mrs.', 'Master') generally correlated with better survival rates.
 
-🚀 How to Run the Notebook
+# 🚀 How to Run the Notebook
 To run this project on your local machine, follow these steps:
 
 1. Clone the Repository
@@ -160,8 +160,8 @@ In the Jupyter interface, navigate to and open Titanic_EDA_Jupyter.ipynb.
 
 You can run the cells one by one by selecting a cell and pressing Shift + Enter, or run all cells via Cell > Run All.
 
-🤝 Contributing
+# 🤝 Contributing
 Feel free to fork this repository, make improvements, and submit pull requests. Any suggestions for further analysis or visualization are welcome!
 
-📄 License
+# 📄 License
 This project is open-source and available under the MIT License.
